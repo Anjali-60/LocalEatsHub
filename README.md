@@ -29,6 +29,6 @@ git clone https://github.com/Satyam-79/LocalEatsHub.git
 
 4. Make and select LocalEatsHub database using phpmyadmin.
 
-6. Import the provided SQL schema into your MySQL database using phpmyadmin import function.
+6. Import the provided SQL schema `database/food-order.sql` into your MySQL database using phpmyadmin import function.
 
 8. pen your browser and navigate to http://localhost/LocalEatsHub 
