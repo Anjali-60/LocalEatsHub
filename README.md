@@ -27,7 +27,7 @@ git clone https://github.com/Satyam-79/LocalEatsHub.git
 
 2. Run Apache and MySQL using XAMPP Control Pannel.
 
-4. Make and select LocalEatsHub database using phpmyadmin.
+4. Make and select `LocalEatsHub` database in `utf8_general-ci` using phpmyadmin.
 
 6. Import the provided SQL schema `database/food-order.sql` into your MySQL database using phpmyadmin import function.
 
