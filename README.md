@@ -2,7 +2,9 @@
 
 ## LocalEatsHub
 
-LocalEatsHub is a user-friendly food order website that allows visitors to explore and place orders effortlessly. Whether you're craving your favorite local delicacies or looking to try something new, LocalEatsHub provides a seamless browsing and ordering experience.
+**LocalEatsHub** is a user-friendly food order website that allows visitors to explore and place orders effortlessly. Whether you're craving your favorite local delicacies or looking to try something new, **LocalEatsHub** provides a seamless browsing and ordering experience.
+
+With **LocalEatsHub**, local restaurant and dhaba owners can now extend their food-selling capabilities by using their very own website to take orders. The platform empowers these businesses to showcase their unique menu offerings, interact directly with customers, and efficiently manage incoming orders.
 
 ## Features
 - **Local Restaurant Integration:** LocalEatsHub is specifically developed for local restaurants and dhabas that want to extend their food-selling capabilities online. It allows them to have their very own website to showcase their menu and take orders directly from customers.
