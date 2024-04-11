@@ -3,6 +3,7 @@
 
 
 
+
     <!-- CAtegories Section Starts Here -->
     <section class="categories">
         <div class="container">
@@ -73,3 +74,4 @@
 
 
     <?php include('partials-front/footer.php'); ?>
+#This is new.
